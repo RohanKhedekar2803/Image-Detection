@@ -1,2 +1,2 @@
 # Image-Detection
-Detecting image shaoes and color
+Detecting image shapes and color using opencv 
